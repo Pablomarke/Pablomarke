@@ -18,5 +18,4 @@ Proximamente...
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 
 ## Contacto:
-[¿Hablamos? talk later?](https://www.linkedin.com/in/developmarke/)
-[And more here!!](https://github.com/Pablomarke?tab=repositories)
+[¿Hablamos? ](https://www.linkedin.com/in/developmarke/)
