@@ -1,6 +1,6 @@
 ### Desarrollador Junior de Aplicaciones Móviles 
 
-Soy un apasionado desarrollador de aplicaciones móviles con sede en Madrid, actualmente en la fase inicial de mi carrera profesional. Mi enfoque se centra en la creación de soluciones innovadoras y eficientes que mejoren la experiencia del usuario. Con una sólida formación en iOS y kotlin, estoy ansioso por aplicar mis conocimientos en entornos prácticos y desafiantes.
+Soy un apasionado desarrollador de aplicaciones móviles con sede en Madrid, actualmente en la fase inicial de mi carrera profesional. Mi enfoque se centra en la creación de soluciones innovadoras y eficientes que mejoren la experiencia del usuario. 
 
 ## Ejemplos de mis apps:
 
